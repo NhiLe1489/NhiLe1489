@@ -1,35 +1,14 @@
 # 😼 Hi, I'm Nhi
 
-<table>
-<tr>
-<td width="55%">
-
-🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br><br>
-🫂 I’m looking to collaborate on **Microarchitecture** and **DSP projects**.<br><br>
-🔎 I’m currently learning **AMBA protocols** and **hardware accelerators for DSP applications**.<br><br>
-🎸 Fun fact:  
-*“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”*  
-— Nikola Tesla
-
-</td>
-
-<td width="45%">
-
-### 🎧 Currently Coding and Listening To
-
-<a href="https://www.youtube.com/watch?v=U5s-Lp9gD9g">
-<img src="https://img.youtube.com/vi/U5s-Lp9gD9g/hqdefault.jpg" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
----
+🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br>
+🫂 I’m looking to collaborate on **Microarchitecture** and **DSP projects**.<br>
+🔎 I’m currently learning **AMBA protocols** and **hardware accelerators for DSP applications**.<br>
+🎸 *“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”* - Nikola Tesla<br><br>
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhi-le-hcmut/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2005baonhile@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2005baonhile@gmail.com)<br><br>
 
 ---
 
@@ -39,9 +18,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br><br>
 
----
 
 ## 🛠 Tools
 
@@ -50,7 +28,7 @@
 ![ModelSim](https://img.shields.io/badge/modelsim-%23007396.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br><br>
 
 ---
 
@@ -64,7 +42,7 @@
 
 ### GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhiLe1489&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhiLe1489&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph"/><br><br>
 
 ---
 
