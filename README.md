@@ -2,25 +2,28 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br>
-🫂 I’m looking to collaborate on **Microarchitecture** and **DSP projects**.<br>
-🔎 I’m currently learning **AMBA protocols** and **hardware accelerators for DSP applications**.<br>
-🎸 Fun fact: *“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”* — Nikola Tesla
+🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br><br>
+🫂 I’m looking to collaborate on **Microarchitecture** and **DSP projects**.<br><br>
+🔎 I’m currently learning **AMBA protocols** and **hardware accelerators for DSP applications**.<br><br>
+🎸 Fun fact:  
+*“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”*  
+— Nikola Tesla
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
 ### 🎧 Currently Coding and Listening To
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
+<a href="https://www.youtube.com/watch?v=U5s-Lp9gD9g">
+<img src="https://img.youtube.com/vi/U5s-Lp9gD9g/hqdefault.jpg" width="100%">
+</a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🌐 Socials
