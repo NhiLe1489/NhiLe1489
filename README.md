@@ -34,15 +34,23 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=NhiLe1489&theme=github_dark_dimmed&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
 ### GitHub Activity Graph
 
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhiLe1489&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph"/><br><br>
+
+</div>
 
 ---
 
