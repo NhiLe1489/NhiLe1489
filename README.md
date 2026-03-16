@@ -34,28 +34,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NhiLe1489&theme=github_dark_dimmed&hide_border=true" height="165"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=NhiLe1489&theme=github_dark_dimmed&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-### GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhiLe1489&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph"/><br><br>
-
-</div>
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=NhiLe1489&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhiLe1489&radius=16&theme=react&area=true&order=5" height="180"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
