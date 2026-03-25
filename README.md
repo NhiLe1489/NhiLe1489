@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NhiLe1489&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NhiLe1489&theme=github_dark_dimmed&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=NhiLe1489&theme=github-dark-dimmed&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
