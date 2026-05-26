@@ -1,4 +1,4 @@
-# 😼 Hello World
+# 😎 Hello World
 
 🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br>
 🫂 I’m looking to collaborate on **DSP projects**.<br>
