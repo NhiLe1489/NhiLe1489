@@ -1,8 +1,8 @@
-# 😼 Hi, I'm Nhi
+# 😼 Hello World
 
 🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br>
-🫂 I’m looking to collaborate on **Microarchitecture** and **DSP projects**.<br>
-🔎 I’m currently learning **AMBA protocols** and **hardware accelerators for DSP applications**.<br>
+🫂 I’m looking to collaborate on **DSP projects**.<br>
+🔎 I’m currently learning **hardware accelerators for DSP applications**.<br>
 🎸 *“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”* - Nikola Tesla<br><br>
 
 ## 🌐 Socials
