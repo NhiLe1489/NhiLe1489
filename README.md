@@ -3,7 +3,7 @@
 🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br>
 🫂 I’m looking to collaborate on **DSP projects**.<br>
 🔎 I’m currently learning **hardware accelerators for DSP applications**.<br>
-🎸 *“I have no special talents. I am only passionately curious.”* - Albert Einstein<br><br>
+🔭 “I have no special talents. I am only passionately curious.” - Albert Einstein<br><br>
 
 ## 🌐 Socials
 
