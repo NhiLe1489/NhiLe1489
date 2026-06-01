@@ -3,7 +3,7 @@
 🖥️ I’m currently working on **RTL Design** and **Digital Signal Processing**.<br>
 🫂 I’m looking to collaborate on **DSP projects**.<br>
 🔎 I’m currently learning **hardware accelerators for DSP applications**.<br>
-🎸 *“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”* - Nikola Tesla<br><br>
+🎸 *“I have no special talents. I am only passionately curious.”* - Albert Einstein<br><br>
 
 ## 🌐 Socials
 
